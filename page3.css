@@ -1,0 +1,66 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    
+}
+
+.box {
+    background-color: antiquewhite;
+    border-radius: 12px;
+    position: relative;
+    width: 365px;
+    height: 432px;
+ 
+}
+
+.box img {
+    width: 365px;
+    height: 213px;
+    border-radius: 12px;
+    
+}
+
+.box .pravoagolnik {
+    position: absolute;
+    width: 365px;
+    height: 63px;
+    background-color: #c96466;
+    top: 213px;
+    
+}
+
+
+.box .bridge {
+    font-size: 18px;
+    text-align: center;
+    position: absolute;
+    color: #e9d8cc;
+    left: 131px;
+    top: 236px;
+   
+}
+
+.box .paragraf {
+        font-size: 14px;
+        font-weight: bold;
+        font-family: "TitilliumWeb";
+        color: #713542;
+        position: absolute;
+        left: 25px;
+        top: 299px;
+      
+}
+
+.box .readmore {
+    font-size: 21px;
+    font-family: "TitilliumWeb";
+    text-decoration: underline;
+    color: #c96466;
+    text-align: center;
+    position: absolute;
+    left: 21px;
+    top: 384px;
+    
+}
